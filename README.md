@@ -95,11 +95,7 @@ Página principal da aplicação.
 
 Busca os posts do usuário 1 na API do JSONPlaceholder e salva no banco MySQL.
 
-## Observações
 
-Este projeto é mais didático do que complexo, então ele funciona como uma base simples para aprender integração entre backend, banco de dados e frontend.
-
-Se quiser, pode evoluir com:
 
 - listagem mais bonita de posts
 - comentários por post
